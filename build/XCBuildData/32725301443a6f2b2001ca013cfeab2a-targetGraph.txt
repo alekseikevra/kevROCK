@@ -1,0 +1,112 @@
+Target dependency graph (31 targets)
+BoringSSL-GRPC in Pods, no dependencies
+PromisesObjC in Pods, no dependencies
+GoogleUtilities in Pods, depends on:
+PromisesObjC in Pods (explicit)
+nanopb in Pods, no dependencies
+GoogleDataTransport in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseCoreDiagnostics in Pods, depends on:
+GoogleDataTransport in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseCoreInternal in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+FirebaseCore in Pods, depends on:
+FirebaseCoreDiagnostics in Pods (explicit)
+FirebaseCoreInternal in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+FirebaseInstallations in Pods, depends on:
+FirebaseCore in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+GoogleAppMeasurement in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseAnalytics in Pods, depends on:
+FirebaseCore in Pods (explicit)
+FirebaseInstallations in Pods (explicit)
+GoogleAppMeasurement in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+nanopb in Pods (explicit)
+GTMSessionFetcher in Pods, no dependencies
+FirebaseAuth in Pods, depends on:
+FirebaseCore in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+leveldb-library in Pods, no dependencies
+FirebaseDatabase in Pods, depends on:
+FirebaseCore in Pods (explicit)
+leveldb-library in Pods (explicit)
+abseil in Pods, no dependencies
+gRPC-C++-gRPCCertificates-Cpp in Pods, no dependencies
+Libuv-gRPC in Pods, no dependencies
+gRPC-Core in Pods, depends on:
+BoringSSL-GRPC in Pods (explicit)
+Libuv-gRPC in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++ in Pods, depends on:
+abseil in Pods (explicit)
+gRPC-C++-gRPCCertificates-Cpp in Pods (explicit)
+gRPC-Core in Pods (explicit)
+FirebaseFirestore in Pods, depends on:
+FirebaseCore in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++ in Pods (explicit)
+leveldb-library in Pods (explicit)
+nanopb in Pods (explicit)
+FirebaseAppCheckInterop in Pods, no dependencies
+FirebaseAuthInterop in Pods, no dependencies
+FirebaseCoreExtension in Pods, depends on:
+FirebaseCore in Pods (explicit)
+FirebaseStorageInternal in Pods, depends on:
+FirebaseCore in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+FirebaseStorage in Pods, depends on:
+FirebaseAppCheckInterop in Pods (explicit)
+FirebaseAuthInterop in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseCoreExtension in Pods (explicit)
+FirebaseStorageInternal in Pods (explicit)
+Firebase in Pods, depends on:
+FirebaseAnalytics in Pods (explicit)
+FirebaseAuth in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseDatabase in Pods (explicit)
+FirebaseFirestore in Pods (explicit)
+FirebaseStorage in Pods (explicit)
+FlagPhoneNumber-FlagPhoneNumber in Pods, no dependencies
+FlagPhoneNumber in Pods, depends on:
+FlagPhoneNumber-FlagPhoneNumber in Pods (explicit)
+SDWebImage in Pods, no dependencies
+Pods-kevROCK in Pods, depends on:
+BoringSSL-GRPC in Pods (explicit)
+Firebase in Pods (explicit)
+FirebaseAnalytics in Pods (explicit)
+FirebaseAppCheckInterop in Pods (explicit)
+FirebaseAuth in Pods (explicit)
+FirebaseAuthInterop in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseCoreDiagnostics in Pods (explicit)
+FirebaseCoreExtension in Pods (explicit)
+FirebaseCoreInternal in Pods (explicit)
+FirebaseDatabase in Pods (explicit)
+FirebaseFirestore in Pods (explicit)
+FirebaseInstallations in Pods (explicit)
+FirebaseStorage in Pods (explicit)
+FirebaseStorageInternal in Pods (explicit)
+FlagPhoneNumber in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleAppMeasurement in Pods (explicit)
+GoogleDataTransport in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+Libuv-gRPC in Pods (explicit)
+PromisesObjC in Pods (explicit)
+SDWebImage in Pods (explicit)
+abseil in Pods (explicit)
+gRPC-C++ in Pods (explicit)
+gRPC-Core in Pods (explicit)
+leveldb-library in Pods (explicit)
+nanopb in Pods (explicit)
